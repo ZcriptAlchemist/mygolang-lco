@@ -1,0 +1,9 @@
+this file will be read by go and the result will be shown
+
+this is another line, idk what to write....this file was created to learn go IO operations
+
+this is another shtty line
+
+thats it ig
+
+the end.
